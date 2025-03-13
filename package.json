@@ -16,5 +16,9 @@
     "url": "https://github.com/Chumanitikili/cape-town-photography/issues"
   },
   "homepage": "https://github.com/Chumanitikili/cape-town-photography#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "node-fetch": "^3.3.2"
+  }
 }
